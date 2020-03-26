@@ -1,4 +1,0 @@
-lapointexavier.github.io
-========================
-
-Logs
